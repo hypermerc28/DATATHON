@@ -4,11 +4,11 @@
 
 ## Description
 
-This initiative aims to develop a predictive model to accurately forecast the quantity of fresh food required for each flight daily. The goal is to optimize fresh food allocation across flights in November 2023, enhancing customer satisfaction, increasing revenue and supporting environmental sustainability by reducing waste.
+This initiative aims to develop a predictive model to accurately forecast the quantity of fresh food required for each flight daily. The goal is to optimize fresh food allocation across flights in November 2023, enhancing customer satisfaction, increasing revenue, and supporting environmental sustainability by reducing waste.
 
 ## Model Used
 
-**Random Forest Regressor**: Employed for its robustness and effectiveness in handling diverse datasets, this model allows us to predict fresh food needs with high accuracy, factoring in customer preferences, flight schedules and other relevant data.
+**XG Boost Regressor**: Employed for its robustness and effectiveness in handling diverse datasets, this model allows us to predict fresh food needs with high accuracy, factoring in customer preferences, flight schedules, and other relevant data.
 
 ## Main Findings
 
